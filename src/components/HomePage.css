@@ -1,0 +1,26 @@
+.warm-background {
+  background: linear-gradient(to bottom, #FFDAB9, #FF7F50);
+  color: #5C4033;
+}
+
+.warm-text {
+  color: #5C4033;
+}
+
+.warm-box {
+  background: #FFF5EE;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.warm-button {
+  background: #FF7F50;
+  border-color: #FF6347;
+  color: white;
+}
+
+.warm-button:hover {
+  background: #FF6347;
+  border-color: #FF4500;
+}
